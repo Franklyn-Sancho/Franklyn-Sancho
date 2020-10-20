@@ -35,7 +35,7 @@
  * Espanhol
  
  ### :dancers: Busco colaborar: 
- Com uma tecnologia cada vez mais humana e inclusiva. Buscando, não somente, projetos que otimizem o nosso tempo, como também, projetos capazes de solucionar problemas que enfrentamos a anos. Acredito no potencial e na criatividade dos profissionais da área de TI para tornar o mundo um lugar melhor para se viver. :heartpulse: :heartpulse:
+ Com uma tecnologia cada vez mais humana e inclusiva. Buscando, não somente, projetos que otimizem o nosso tempo, como também, projetos capazes de solucionar problemas que enfrentamos a anos. Acredito no potencial e na criatividade dos profissionais da área de TI para tornar o mundo um lugar melhor para se viver. Quanto as tecnologias, topicalizo logo acima :heartpulse: :heartpulse:
  
  ### 💬 Contate-me
  

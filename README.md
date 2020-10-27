@@ -27,7 +27,7 @@
  * Dockers
  * Python
  * Orientação a Objetos
- * UX/UI
+ * R
  
  ### :speaker: Idiomas:
  

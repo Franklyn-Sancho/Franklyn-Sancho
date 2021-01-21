@@ -9,7 +9,7 @@
  
  ### 🔭 I’m currently working on
  
- * JavaScript <img src="https://iconscout.com/icon/javascript-2752148">
+ * JavaScript 
  * Typescript
  * NodeJs
  * Python

@@ -1,43 +1,38 @@
-# Olá, Bem vindo! :metal: 
+<h1 align="center"> E aeeee, Welcome :metal::brazil: <h1>
 
+### :smiley: About me:
+ * Backend Developer :computer: :computer: (but if you need, we can build a frontend together) :wink:
+ * DataScience, Machine Learning, Python, Cloud, IA and Web Enthusiast :brain:
+ * Math, Calculus, algebra, linear algebra, statistical analysis 
+ * i'm working for a more inclusive, simple, intuitive and human technology. 
 
-
-
-### :smiley: Sobre mim:
- * Sou estudante de análise e desenvolvimento de sistemas :computer: :computer:
- * Desenvolvedor Backend e frontend em JavaScript, Typescript, nodeJS, React, Angular, Vue, HTML, CSS :wrench:
- * Apaixonado por Data Science, afinal é um Join de tudo que amo amo trabalhar: Programação e Números.
- * Matemática, Cálculo, Álgebra abstrata, Álgebra linear e estatística. 
- * Acredito numa tecnologia mais inclusiva, intuitiva, presente e humana. :heartpulse:
  
- ### 🌱 Tecnologias que trabalho: 
+ ### 🔭 I’m currently working on
  
- * JavaScript
- * React
+ * JavaScript <img src="https://iconscout.com/icon/javascript-2752148">
  * Typescript
- * HTLM
- * CSS
- * NodeJS
- * Angular
- 
- ### :pencil: tecnologias que estudo:
- 
- * DataScience
- * Kubernetes
- * Dockers
+ * NodeJs
  * Python
- * Orientação a Objetos
- * R
+ * DataScience
+ * Selenium
+ * Machine Learning
  
- ### :speaker: Idiomas:
+ ### 🌱 I’m currently learning
  
- * Inglês
- * Espanhol
+ * DataScience (More and more)
+ * Deep Learning
+ * Cloud
+ * Python (Libraries)
  
- ### :dancers: Busco colaborar: 
- Com uma tecnologia cada vez mais humana e inclusiva. Buscando, não somente, projetos que otimizem o nosso tempo, como também, projetos capazes de solucionar problemas que enfrentamos a anos. Acredito no potencial e na criatividade dos profissionais da área de TI para tornar o mundo um lugar melhor para se viver. Quanto as tecnologias, topicalizo logo acima :heartpulse: :heartpulse:
  
- ### 💬 Contate-me
+ ### :speaker: Lets talk
+ 
+ * English
+ * Español
+ * Português
+ 
+ 
+ ### 💬 contact me
  
 [Linkedin](https://www.linkedin.com/in/franklyn-sancho/).
 

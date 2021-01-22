@@ -23,6 +23,7 @@
  * Deep Learning
  * Cloud
  * Python (Libraries)
+ * Java
  
  
  ### :speaker: Lets talk

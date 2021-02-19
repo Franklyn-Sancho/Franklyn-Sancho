@@ -1,7 +1,7 @@
 <h1 align="center"> E aeeee, Welcome :metal::brazil: <h1>
 
 ### :smiley: About me:
- * Backend Developer :computer: :computer: (but if you need, we can build a frontend together) :wink:
+ * Software Developer
  * DataScience, Machine Learning, Python, Cloud, IA and Web Enthusiast :brain:
  * Math, Calculus, algebra, linear algebra, statistical analysis 
  * i'm working for a more inclusive, simple, intuitive and human technology. 

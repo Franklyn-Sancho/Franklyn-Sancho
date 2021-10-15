@@ -32,10 +32,15 @@
  * Español
  * Português
  
+ my blog: 
+ 
+ https://medium.com/@franklyn.hs
+ 
  
  ### 💬 contact me
  
 [Linkedin](https://www.linkedin.com/in/franklyn-sancho/).
+
 
 
 

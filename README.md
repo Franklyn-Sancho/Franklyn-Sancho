@@ -1,45 +1,45 @@
 <h1 align="center"> E aeeee, Welcome :metal::brazil: <h1>
 
 ### :smiley: About me:
- * Software Developer
- * DataScience, Machine Learning, Python, Cloud, IA and Web Enthusiast :brain:
- * Math, Calculus, algebra, linear algebra, statistical analysis 
- * i'm working for a more inclusive, simple, intuitive and human technology. 
+ * Software Developer;
+ * DataScience, Machine Learning, Python, BackEnd and Rust Enthusiast :brain:;
+ * Math, Calculus, algebra, linear algebra, statistical analysis;
+ * I'm working for a more inclusive, simple, intuitive and human technology;
+ * Technology article writer;
 
  
  ### 🔭 I’m currently working on
  
- * JavaScript 
- * Typescript
- * NodeJs
- * Python
- * DataScience
- * Selenium
- * Machine Learning
+ * JavaScript;
+ * Typescript;
+ * NodeJs;
+ * Python;
+ * Rust;
+ * BackEnd;
+ * Database;
  
  ### 🌱 I’m currently learning
  
- * DataScience (More and more)
- * Deep Learning
- * Cloud
- * Python (Libraries)
- * Java
+ * NodeJS;
+ * Rust;
+ * Python (Libraries);
+ * DataScience;
+ * Deep Learning;
+ * Cloud;
+
  
  
  ### :speaker: Lets talk
  
- * English
- * Español
- * Português
- 
- my blog: 
- 
- https://medium.com/@franklyn.hs
+ * English;
+ * Español;
+ * Português;
  
  
  ### 💬 contact me
  
-[Linkedin](https://www.linkedin.com/in/franklyn-sancho/).
+* [Linkedin](https://www.linkedin.com/in/franklyn-sancho/);
+* [My Blog](https://franklyn-sanc.medium.com/;)
 
 
 
